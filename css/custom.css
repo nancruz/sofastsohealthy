@@ -1,0 +1,71 @@
+/*
+	Theme Name: wpboot
+	Description:
+	Author: Nuno Cruz
+	Author URI:
+	Version: 1.0
+	Template: wpboot
+	Template Version: 1.0
+
+*/
+/*
+Add Your Custom CSS Below This Line
+---------------------------------------------------------------- */
+.blog-header{
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding-top: 0px;
+}
+.blog-title{
+  margin: 0px;
+  font: normal normal normal 33px/1.4em 'open sans',sans-serif;
+}
+.blog-title a:hover{
+  color: black;
+}
+.navbar-nav{
+  border-bottom: 1px solid;
+  float:none;
+  text-align: center;
+}
+.navbar-nav > li{
+  display: inline-block;
+  float: none;
+}
+.navbar-nav > li > a{
+  color: black;
+  font: normal normal normal 18px/1.4em 'open sans', sans-serif;
+  font-weight: bold;
+}
+.blog-main{
+  width: 100%;
+}
+.blog-post{
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.blog-post p{
+  font: normal normal normal 18px/1.4em 'open sans', sans-serif;
+}
+.blog-post-title {
+  font: normal normal normal 30px/1.4em 'open sans', sans-serif;
+}
+.blog-post-title a{
+  font: normal normal normal 30px/1.4em 'open sans', sans-serif;
+}
+.blog-post-meta{
+  font: normal normal normal 14px/1.4em 'open sans', sans-serif;
+}
+.footer{
+  border-top: 1px solid;
+  padding: 10px;
+  display: inline-block;
+  width: 100%;
+}
+.icons{
+  float: right;
+}
+.icons a{
+  margin-left: 5px;
+}
